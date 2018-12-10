@@ -1,4 +1,4 @@
-package org.gdarrigo.straight_line.cartesian.plane;
+package org.gdarrigo.straightline.cartesian.plane;
 
 public interface SlopeCalculation {
     Slope calculateSlope();

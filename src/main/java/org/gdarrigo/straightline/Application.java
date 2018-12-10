@@ -1,4 +1,4 @@
-package org.gdarrigo.straight_line;
+package org.gdarrigo.straightline;
 
 public class Application {
 

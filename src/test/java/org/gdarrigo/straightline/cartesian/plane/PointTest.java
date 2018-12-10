@@ -1,6 +1,5 @@
-package org.gdarrigo.cartesian.plane;
+package org.gdarrigo.straightline.cartesian.plane;
 
-import org.gdarrigo.straight_line.cartesian.plane.Point;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

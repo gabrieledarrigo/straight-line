@@ -1,4 +1,4 @@
-package org.gdarrigo.straight_line.cartesian.plane;
+package org.gdarrigo.straightline.cartesian.plane;
 
 public final class StraightLine implements SlopeCalculation {
     private Point a;

@@ -1,7 +1,5 @@
-package org.gdarrigo.cartesian.plane;
+package org.gdarrigo.straightline.cartesian.plane;
 
-import org.gdarrigo.straight_line.cartesian.plane.Point;
-import org.gdarrigo.straight_line.cartesian.plane.StraightLine;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
