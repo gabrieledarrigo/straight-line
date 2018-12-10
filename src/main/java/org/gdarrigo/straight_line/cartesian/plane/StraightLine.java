@@ -20,6 +20,6 @@ public final class StraightLine implements SlopeCalculation {
 
     @Override
     public Slope calculateSlope() {
-        return null;
+        return new Slope((b.getY() - a.getY()) / (b.getX() - a.getX()));
     }
 }

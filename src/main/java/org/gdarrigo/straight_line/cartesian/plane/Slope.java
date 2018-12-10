@@ -1,13 +1,13 @@
 package org.gdarrigo.straight_line.cartesian.plane;
 
 public final class Slope {
-    private Integer value;
+    private Double value;
 
-    public Slope(Integer value) {
+    public Slope(Double value) {
         this.value = value;
     }
 
-    public Integer getValue() {
+    public Double getValue() {
         return value;
     }
 }

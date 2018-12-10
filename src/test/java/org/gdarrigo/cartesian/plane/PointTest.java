@@ -9,10 +9,10 @@ class PointTest {
 
     @Test
     void itIsAPointInTheCartesianPlaneWithAnAbscissaAndAnOrdinate() {
-        Integer x = 10;
-        Integer y = 7;
+        Double x = 10.0;
+        Double y = 7.0;
 
-        Point point = new Point(10, 7);
+        Point point = new Point(x, y);
 
         assertEquals(point.getX(), x);
         assertEquals(point.getY(), y);

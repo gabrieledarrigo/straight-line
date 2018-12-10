@@ -9,9 +9,9 @@ class SlopeTest {
 
     @Test
     void itIsTheSlopeOfAStraightLine() {
-        Integer value = 5;
+        Double value = 5.0;
 
-        Slope slope = new Slope(5);
+        Slope slope = new Slope(5.0);
         assertEquals(slope.getValue(), value);
     }
 }

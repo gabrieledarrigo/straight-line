@@ -2,20 +2,20 @@ package org.gdarrigo.straight_line.cartesian.plane;
 
 public final class Point {
 
-    private Integer x;
+    private Double x;
 
-    private Integer y;
+    private Double y;
 
-    public Point(Integer x, Integer y) {
+    public Point(Double x, Double y) {
         this.x = x;
         this.y = y;
     }
 
-    public Integer getX() {
+    public Double getX() {
         return x;
     }
 
-    public Integer getY() {
+    public Double getY() {
         return y;
     }
 }
